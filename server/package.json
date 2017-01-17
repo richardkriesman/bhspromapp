@@ -1,0 +1,12 @@
+{
+  "name": "bhspromapp",
+  "version": "3.3.0",
+  "license": "GPL-3.0",
+  "author": "Richard Kriesman <richard_kriesman@outlook.com> (https://www.richardkriesman.com)",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "node-php": "0.0.1",
+    "php-cgi": "^0.2.0"
+  }
+}
